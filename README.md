@@ -23,7 +23,7 @@ Algunos proyectos destacables son:
 
 - Un bot scrapper de LinkedIn: [LinkedIn Automator](https://github.com/Metalex84/linkedin_automator). Mi PFC: una web-app sobre Flask que utiliza Selenium para navegar automáticamente por LinkedIn (respetando sus términos y condiciones, claro).
 - Una app en Android que simula una [lista de Lectura](https://github.com/Metalex84/AndroidBooklist). Mi primer gran logro con Kotlin y Jetpack Compose.
-- Otra app con Kotlin y Jetpack Compose donde implemento un [e-Commerce] (https://github.com/Metalex84/AndroidBazar). Todavía en construccion. 
+- Otra app con Kotlin y Jetpack Compose donde implemento un [e-Commerce](https://github.com/Metalex84/AndroidBazar). Todavía en construccion. 
 - Una web-app muy sencilla que se limita a [generar códigos QR](https://github.com/Metalex84/qr_generate). Me sirvió para aprender fundamentos de Backend en Python.
 - Un sitio web estático con [mi porfolio](https://github.com/Metalex84/MYCV) que me sirvió para aprender algunos conceptos básicos sobre Frontend.
 
