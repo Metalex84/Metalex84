@@ -23,7 +23,7 @@ Algunos proyectos destacables son:
 
 - Una app en Android que simula una [lista de Lectura](https://github.com/Metalex84/AndroidBooklist). Mi primer gran logro con Kotlin y Jetpack Compose, donde aprendí el manejo de Material Design, GSON y Room.
 - Otra app donde implemento un pequeño [e-Commerce](https://github.com/Metalex84/AndroidBazar). Aquí he sido capaz de mejorar la calidad y estructuración del código, y separar más la lógica de negocio de la UI.
-- - Un bot scrapper de LinkedIn: [LinkedIn Automator](https://github.com/Metalex84/linkedin_automator). Fue mi PFC: una web-app sobre Flask que utiliza Selenium para navegar automáticamente por LinkedIn (respetando sus términos y condiciones, claro).
+- Un bot scrapper de LinkedIn: [LinkedIn Automator](https://github.com/Metalex84/linkedin_automator). Fue mi PFC: una web-app sobre Flask que utiliza Selenium para navegar automáticamente por LinkedIn (respetando sus términos y condiciones, claro).
 - Una web-app muy sencilla que se limita a [generar códigos QR](https://github.com/Metalex84/qr_generate). Me sirvió para aprender fundamentos de Backend en Python.
 - Un sitio web estático con [mi porfolio](https://github.com/Metalex84/MYCV) que me sirvió para aprender algunos conceptos básicos sobre Frontend.
 - Cuando pasé por [42 Madrid](https://www.42madrid.com), realicé mi propia implementación de algunas funciones de C, como son [printf](https://github.com/Metalex84/ft_printf), [get-next-line](https://github.com/Metalex84/get_next_line) y una biblioteca propia que recogía muchas otras funciones del estándar de C `unistd` bajo el nombre de ["libft"](https://github.com/Metalex84/libft).
