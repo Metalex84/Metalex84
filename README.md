@@ -3,9 +3,7 @@
 ### ¿Por qué digo "por fin"?
 Este matiz es importante porque empecé a estudiar Ingeniería Informática, lo acabé dejando y, durante muchos años de mi carrera, **no quise volver a saber nada** ni de sistemas, ni de código, ni de nada que se le pareciera.
 
-Pues bien: ***este fue el peor error de mi vida***.
-
-Llegó un momento en el que mi carrera profesional se atascó. Llegué a un punto de inflexión. Estaba en una encrucijada, y no estoy exagerando.
+Pues bien: llegó un momento en el que mi carrera profesional se atascó. Llegué a un punto de inflexión. Estaba en una encrucijada, y no estoy exagerando.
 
 ### ¿Y qué hice?
 
