@@ -12,7 +12,7 @@ Llegó un momento en el que mi carrera profesional se atascó. Llegué a un punt
 Pues le eché valor y volví al mundo del `<código/>`:
 - Obtuve el **[Grado Superior en Desarrollo de Aplicaciones Multiplataforma](https://porfolio-rx-alex.vercel.app/data/cesur_academic_alex.pdf)** en **CESUR**.
 - Terminé el **[CS50 - Introduction to Computer Science](https://courses.edx.org/certificates/bee730002f474fda92406d16c1fa14df)** de **Harvard Online**.
-- Durante unos meses aprendí muchísimo en el **Cursus** de **42 - The Network**.
+- Durante unos meses aprendí muchísimo en el **Cursus** de **42 - The Network**, por cortesía de [Fundación Telefónica](https://www.fundaciontelefonica.com/).
 
 ### ¿Y los proyectos?
 Muy pronto aprendí que los cursos y títulos están muy bien, **pero lo que realmente importa es saber programar**.
