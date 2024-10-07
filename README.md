@@ -1,4 +1,4 @@
-## Hola, soy Alejandro González y (por fin) soy programador 👋
+## Hola, soy Alejandro González y he vuelto a ser programador 👋
 
 ### ¿Por qué digo "por fin"?
 Este matiz es importante porque empecé a estudiar Ingeniería Informática, lo acabé dejando y, durante muchos años de mi carrera, **no quise volver a saber nada** ni de sistemas, ni de código, ni de nada que se le pareciera.
