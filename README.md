@@ -25,7 +25,6 @@ Algunos proyectos destacables son:
 
 [![📫](https://img.shields.io/badge/EMAIL-purple)](mailto:agonzalez.venegas@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue)](https://www.linkedin.com/in/alejandro-gonzalez-venegas)
-[![Curriculum](https://img.shields.io/badge/CV-orange)](https://porfolio-rx-alex.vercel.app/data/CV_ES_Alejandro_Gonzalez.pdf)
 
 
 <!-- **Metalex84/Metalex84* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
