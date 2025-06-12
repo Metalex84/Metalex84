@@ -1,6 +1,6 @@
-## Alejandro González: Docente de Informática 👋
+## Alejandro González: docente de informática 👋
 
-### ... ¡y Programador!
+### ... ¡y desarrollador!
 
 Tras muchos años "fuera del terreno", le eché valor y volví al mundo del `<código/>` tras haber pasado por la Universidad y estudiar Ingeniería Informática con poco éxito:
 - Obtuve el **[Grado Superior en Desarrollo de Aplicaciones Multiplataforma](https://porfolio-rx-alex.vercel.app/data/cesur_academic_alex.pdf)** en **CESUR**.
