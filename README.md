@@ -1,13 +1,13 @@
-## Alejandro González: docente de informática 👋
+## Alejandro González: docente técnico de informática 👋
 
-### ... ¡y desarrollador!
+### Desarrollador y profesor
 
 Tras muchos años "fuera del terreno", le eché valor y volví al mundo del `<código/>` tras haber pasado por la Universidad y estudiar Ingeniería Informática con poco éxito:
 - Obtuve el **[Grado Superior en Desarrollo de Aplicaciones Multiplataforma](https://porfolio-rx-alex.vercel.app/data/cesur_academic_alex.pdf)** en **CESUR**.
 - Terminé el **[CS50 - Introduction to Computer Science](https://courses.edx.org/certificates/bee730002f474fda92406d16c1fa14df)** de **Harvard Online**.
 - Durante unos meses aprendí muchísimo en el **Cursus** de **42 - The Network**, por cortesía de [Fundación Telefónica](https://www.fundaciontelefonica.com/).
 
-### ¿Y los proyectos?
+### Aprendizate por proyectos
 Muy pronto aprendí que los cursos y títulos están muy bien, **pero lo que realmente importa es saber programar**.
 
 Y por eso está este perfil de GitHub: es un espacio que voy construyendo a base de ir completando proyectos y entrenando mis habilidades.
