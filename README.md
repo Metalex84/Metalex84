@@ -6,7 +6,7 @@ Actualmente, compagino mi rol técnico con la especialización en el **Máster (
 
 ---
 
-### 🛠️ Stack Tecnológico Key
+### 🛠️ Stack Tecnológico Principal
 - **Lenguajes:** Python (Flask, FastAPI, Pandas, Selenium), Java, Kotlin, C/C++
 - **Ecosistema IA & Datos:** API de Gemini / OpenAI, Prompt Engineering, SQL, Estructuras de Datos Complejas
 - **Mobile & Sistemas:** Android Nativo (Jetpack Compose, Clean Architecture), Programación Concurrente y Redes (Unix Sockets)
