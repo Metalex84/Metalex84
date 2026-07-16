@@ -1,19 +1,16 @@
-## Alejandro González | Software Engineer & AI / Big Data Specialist 🚀
+## Alejandro González | Software Developer, Product Manager, AI & Big Data Engineer, Teacher 🚀
 
-¡Hola! Bienvenido a mi espacio de desarrollo. Soy un programador enfocado en la construcción de soluciones eficientes, arquitecturas limpias y la integración de modelos de Inteligencia Artificial. 
-
-Actualmente, compagino mi rol técnico con la especialización en el **Máster (Grado E) de Inteligencia Artificial y Big Data**, aplicando modelos de lenguaje (LLMs), procesamiento de datos masivos y automatización avanzada con Python.
-
+¡Hola! Bienvenido a mi espacio de desarrollo. 
 ---
 
 ### 🛠️ Stack Tecnológico Principal
-- **Lenguajes:** Python (Flask, FastAPI, Pandas, Selenium), Java, Kotlin, C/C++
+- **Lenguajes:** Python (Flask, FastAPI, Pandas, Selenium), Java (Spring Boot, Hibernate), Kotlin (Android), C# (.NET Core), C
 - **Ecosistema IA & Datos:** API de Gemini / OpenAI, Prompt Engineering, SQL, Estructuras de Datos Complejas
-- **Mobile & Sistemas:** Android Nativo (Jetpack Compose, Clean Architecture), Programación Concurrente y Redes (Unix Sockets)
+- **Mobile & Sistemas:** Android Nativo (Jetpack Compose, Clean Architecture), Programación Concurrente y Redes (Sockets)
 
 ---
 
-### 📂 Proyectos Destacados (IA, Automatización y Backend)
+### 📂 Proyectos Destacados (IA, Automatización, Backend)
 
 A continuación, algunos de los proyectos donde aplico optimización de código, manejo de datos y lógicas de negocio complejas:
 
@@ -27,7 +24,8 @@ A continuación, algunos de los proyectos donde aplico optimización de código,
 ---
 
 ### 🎓 Formación Crítica e Investigación
-- **Curso de Especialización (Grado E) en Inteligencia Artificial y Big Data** *(En curso / Próximamente)*
+- **Especialidad formativa IFCD105 - BIG DATA** *(En curso)*
+- **Curso de Especialización (Grado E) en Inteligencia Artificial y Big Data** *(En curso)*
 - **[Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)](https://porfolio-rx-alex.vercel.app/data/cesur_academic_alex.pdf)** – CESUR
 - **[CS50 - Introduction to Computer Science](https://courses.edx.org/certificates/bee730002f474fda92406d16c1fa14df)** – Harvard Online
 - **Cursus de Ingeniería de Software** – 42 Madrid (Fundación Telefónica)
@@ -35,8 +33,6 @@ A continuación, algunos de los proyectos donde aplico optimización de código,
 ---
 
 ### 📩 Conectemos
-
-Si buscas un perfil técnico que entienda las necesidades de negocio, domine el backend y esté sumergiéndose a fondo en el ecosistema de la Inteligencia Artificial:
 
 [![Email](https://img.shields.io/badge/EMAIL-agonzalez.venegas%40outlook.com-purple?style=flat-square)](mailto:agonzalez.venegas@outlook.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-Alejandro%20González-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alejandro-gonzalez-venegas)
