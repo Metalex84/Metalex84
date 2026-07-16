@@ -1,19 +1,19 @@
-## Alejandro González | Software Developer, Product Manager, AI & Big Data Engineer, Teacher 🚀
+## Alejandro González | Full-Stack Developer | Product Manager | AI & Big Data Engineer | IT Teacher 🚀
 
-¡Hola! Bienvenido a mi espacio de desarrollo. 
+## ¡Hola! Bienvenido a mi espacio de desarrollo. 
 ---
 
 ### 🛠️ Stack Tecnológico Principal
-- **Lenguajes:** Python (Flask, FastAPI, Pandas, Selenium), Java (Spring Boot, Hibernate), Kotlin (Android), C# (.NET Core), C
-- **Ecosistema IA & Datos:** API de Gemini / OpenAI, Prompt Engineering, SQL, Estructuras de Datos Complejas
-- **Mobile & Sistemas:** Android Nativo (Jetpack Compose, Clean Architecture), Programación Concurrente y Redes (Sockets)
+- **Ecosistema IA & Datos:** LLM API, Prompt Engineering, SQL, MongoDB
+- **Mobile** Android Nativo (Jetpack Compose, Clean Architecture)
+- **Frontend** HTML, CSS, JavaScript, TypeScript
+- **Backend** Java, Python, Kotlin, C#, C, PHP
 
 ---
 
-### 📂 Proyectos Destacados (IA, Automatización, Backend)
+### 📂 Proyectos Destacados (Frontend, Backend, IA)
 
-A continuación, algunos de los proyectos donde aplico optimización de código, manejo de datos y lógicas de negocio complejas:
-
+*   **[Invitación de boda](https://github.com/Metalex84/jam_wedding) (TypeScript, CSS):** Invitación de boda en formato web. NOTA: la utilicé para mi propia boda y me ahorré las impresiones a cambio de unos cuantos _commit_ 😄. Otra versión [aquí](https://github.com/Metalex84/wedding-site).
 *   **[PhotoBooth](https://github.com/Metalex84/PhotoBooth_Keras_Teachable) (Python, Flask, Keras):** Divertido prototipo en formato Web-app que utiliza un modelo entrenado con Google Teachable Machine para crear un collage fotográfico con reconocimiento facial incorporado.
 *   **[LinkedIn Automator](https://github.com/Metalex84/linkedin_automator) (Python, Flask, Selenium):** Web-app de automatización y web-scraping para la optimización de procesos de networking. Diseñada bajo una arquitectura cliente-servidor robusta y gestión de automatización web.
 *   **[Android Bazar - e-Commerce](https://github.com/Metalex84/AndroidBazar) (Kotlin, Jetpack Compose, SQLite):** Aplicación móvil nativa donde aplico patrones de diseño avanzados, separación estricta de lógica de negocio (UI vs. Data Layer) y persistencia local eficiente.
